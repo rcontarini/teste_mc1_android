@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">teste_mc1</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="register_name">Nome</string>
+    <string name="register_address">Endereço</string>
+    <string name="register_number">Número</string>
+    <string name="register_cpf">CPF</string>
+
+    <string name="text_empty">Campo Obrigatório!</string>
+    <string name="register_title">Cadastro de Usuários</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="btn_yes">Sim</string>
+    <string name="btn_no">Não</string>
+    <string name="dialog_alert">Atenção</string>
+    <string name="dialog_title">Tem certeza que deseja deletar este registro?</string>
+
+    <string name="home_title">Usuários</string>
+    <string name="register_ok">Cadastro efetuado com sucesso!</string>
+    <string name="register_edit">Cadastro editado com sucesso!</string>
+    <string name="register_delete">Registro deletado com sucesso!</string>
+</resources>
